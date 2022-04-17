@@ -58,3 +58,6 @@ This example like static website is deployed in github web pages
 ```bash
 npm install gh-pages --save-dev
 ```
+```bash
+gh-pages -d <static site to deploy>
+```
