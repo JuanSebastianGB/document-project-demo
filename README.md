@@ -52,12 +52,4 @@ npm i clean-jsdoc-theme
 
 ## Deploy
 This example like static website is deployed in github web pages
-- Easily accesible trough google writing npm gh-pages
-- [Deploy in github pages](https://www.npmjs.com/package/gh-pages)
-
-```bash
-npm install gh-pages --save-dev
-```
-```bash
-gh-pages -d <static site to deploy>
-```
+- To make the deployment of this repository is uploaded the docs file. "It is mandatory this name"
